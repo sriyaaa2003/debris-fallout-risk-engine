@@ -1,6 +1,6 @@
-# Karlskrona Impact Risk Engine
+﻿# Debris Fallout Risk Engine
 
-Built at the **EDTH hackathon in Karlskrona, Sweden (May 2026)** as a team project.
+Built at the **EDTH hackathon in Karlskrona, Sweden (May 2026)** as a team project. **The team won 2nd prize.**
 
 When a hostile drone or missile is intercepted over a populated area, the interception can be successful and still cause harm: the wreckage and fuel have to land somewhere. This engine answers the question *where would it be unacceptable for debris to fall?* It scores the Karlskrona archipelago cell by cell for how unsuitable it is as a debris-fall area, so an intercept can be planned for a time and place where fallout does the least damage.
 
